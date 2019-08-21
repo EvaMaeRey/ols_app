@@ -1,9 +1,0 @@
-# OLS Minimization App
-
-Here is what the shiny app interface looks like: 
-
-
-```{r, out.width="75%", fig.align='center', echo = F}
-knitr::include_graphics("images/Untitled.png")
-```
-
