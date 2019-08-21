@@ -1,0 +1,7 @@
+]0;~/Google Drive/teaching/labs/ols_app[?1034hmyers-screen-3:ols_app evangelinereynolds$ [Kmyers-screen-3:ols_app evangelinereynolds$ git inti[K[Kit
+Initialized empty Git repository in /Users/evangelinereynolds/Google Drive/teaching/labs/ols_app/.git/
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git [K[K[K[Kgit remote add origin https://github.com/EvaMaeRey/ols_app.git
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git push -u origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/EvaMaeRey/ols_app.git'
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git add.[K .
