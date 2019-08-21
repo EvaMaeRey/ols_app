@@ -24,3 +24,32 @@ To push the current branch and set the remote as upstream, use
     git push --set-upstream origin master
 
 git add .
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git commit "[Km[K-m "trying again to add files"
+[master c12ebac] trying again to add files
+ 4 files changed, 25 insertions(+), 2 deletions(-)
+ rewrite .Rproj.user/C3865889/console06/INDEX001 (100%)
+ delete mode 100644 .Rproj.user/C3865889/sources/s-928FDD41/lock_file
+ create mode 100644 .gitignore
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git pushgit remote add origin https://github.com/EvaMaeRey/ols_app.git
+git: 'pushgit' is not a git command. See 'git --help'.
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git push -u origin mastergit remote add origin https://github.com/EvaMaeRey/ols_app.git
+fatal: remote part of refspec is not a valid name in https://github.com/EvaMaeRey/ols_app.git
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git push -u origin master
+
+Counting objects: 23, done.
+Delta compression using up to 4 threads.
+Compressing objects:   6% (1/16)   Compressing objects:  12% (2/16)   Compressing objects:  18% (3/16)   Compressing objects:  25% (4/16)   Compressing objects:  31% (5/16)   Compressing objects:  37% (6/16)   Compressing objects:  43% (7/16)   Compressing objects:  50% (8/16)   Compressing objects:  56% (9/16)   Compressing objects:  62% (10/16)   Compressing objects:  68% (11/16)   Compressing objects:  75% (12/16)   Compressing objects:  81% (13/16)   Compressing objects:  87% (14/16)   Compressing objects:  93% (15/16)   Compressing objects: 100% (16/16)   Compressing objects: 100% (16/16), done.
+Writing objects:   4% (1/23)   Writing objects:   8% (2/23)   Writing objects:  13% (3/23)   Writing objects:  17% (4/23)   Writing objects:  21% (5/23)   Writing objects:  26% (6/23)   Writing objects:  30% (7/23)   Writing objects:  34% (8/23)   Writing objects:  39% (9/23)   Writing objects:  43% (10/23)   Writing objects:  47% (11/23)   Writing objects:  52% (12/23)   Writing objects:  56% (13/23)   Writing objects:  60% (14/23)   Writing objects:  65% (15/23)   Writing objects:  69% (16/23)   Writing objects:  73% (17/23)   Writing objects:  78% (18/23)   Writing objects:  82% (19/23)   Writing objects:  86% (20/23)   Writing objects:  91% (21/23)   Writing objects:  95% (22/23)   Writing objects: 100% (23/23)   Writing objects: 100% (23/23), 5.28 KiB | 234.00 KiB/s, done.
+Total 23 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
+To https://github.com/EvaMaeRey/ols_app.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ 
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ [Kmyers-screen-3:ols_app evangelinereynolds$ git push -u origin mastergit remote add origin https://github.com/EvaMaeRey/ols_app.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcommit -m "trying again to add files"add .[Kcommit -m "trying again to add files"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"add .[Kcommit -m "trying again to a"add .[K
