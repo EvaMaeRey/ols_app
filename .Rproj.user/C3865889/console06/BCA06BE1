@@ -5,3 +5,22 @@ Initialized empty Git repository in /Users/evangelinereynolds/Google Drive/teach
 error: src refspec master does not match any.
 error: failed to push some refs to 'https://github.com/EvaMaeRey/ols_app.git'
 ]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git add.[K .
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git commit -m "f[Kinitial commit"
+[master (root-commit) 0e00734] initial commit
+ 7 files changed, 248 insertions(+)
+ create mode 100644 .Rproj.user/C3865889/console06/BCA06BE1
+ create mode 100644 .Rproj.user/C3865889/console06/BCA06BE1.env
+ create mode 100644 .Rproj.user/C3865889/console06/INDEX001
+ create mode 100644 .Rproj.user/C3865889/sources/s-928FDD41/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 ols_app.R
+ create mode 100644 ols_app.Rproj
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git commit -m "initial commit"add .[Kpush -u origin masterremote add origin https://github.com/EvaMaeRey/ols_app.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kremote add origin https://github.com/EvaMaeRey/ols_app.git
+fatal: remote origin already exists.
+]0;~/Google Drive/teaching/labs/ols_appmyers-screen-3:ols_app evangelinereynolds$ git remote add origin https://github.com/EvaMaeRey/ols_app.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pcommit -m "initial commit"add .[Kcommit -m "initial commit"add .[K[K[K[K[K[Kpush
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+git add .
